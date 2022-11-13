@@ -2,7 +2,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 
-// class for the movieItem component// extends and export word used to export app.js
+// class for the BookItem component// extends and export word used to export app.js
 export class BookItem extends React.Component{
 
       // returning component
